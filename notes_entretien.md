@@ -105,7 +105,9 @@
 | Combien de résultats hors sujet sont tolérés ? | Seuil de qualité de la recherche | Seuil que je propose, à faire valider |
 | Combien de temps prend la rédaction d'un courrier type aujourd'hui ? | Sans ce chiffre, le gain sur les 15 courriers par jour reste inconnu (hypothèse H1, section 4) | **Question pour le prochain rendez-vous**, puis mesure sur une semaine |
 | Peut-on extraire les informations des dossiers (parties, montants, dates) du logiciel de gestion ? | Remplir les modèles de courriers sans ressaisie | Question pour l'éditeur du logiciel |
-| Le contrat du prestataire informatique prévoit-il une clause de confidentialité ? | Il accède déjà à des données couvertes par le secret | Question ouverte, menace interne au §4 |
+| Le contrat du prestataire informatique prévoit-il une clause de confidentialité ? | Il accède déjà à des données couvertes par le secret | Remplacée après l'imprévu (il part le 31/12) : ses accès sont à couper à son départ |
+| Qui fait aujourd'hui les sauvegardes du serveur ? (après l'imprévu) | Sans prestataire après le 31/12, les décisions d'origine risquent d'être perdues | Question ouverte |
+| Le prestataire peut-il ouvrir l'accès au serveur pour la copie avant son départ ? (après l'imprévu) | La copie des décisions chez l'hébergeur doit se faire avant le 31/12 | Question ouverte |
 | Où se trouve le serveur actuel : dans les locaux ou chez le prestataire ? | Sauvegardes et transfert des données vers le futur hébergeur | Question ouverte |
 | Tous les avocats peuvent-ils voir toutes les décisions ? | Droits d'accès, conflits d'intérêts | Question ouverte, droits d'accès au §5 |
 | Les avocats utilisent-ils déjà des outils d'IA grand public ? | Une fuite existe peut-être déjà | Question ouverte (§6) |
